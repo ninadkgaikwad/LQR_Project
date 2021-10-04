@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{System Identification}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{ Overcoming Effect of Initial States and Sensor Noise}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Frequency Response and Transfer Function Estimation}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Heuristic Method for Estimating Best Fit Transfer Function}{subsection.1.2}% 4
+\BOOKMARK [1][-]{section.2}{Controller Design}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Set Point Tracking using Feedback Regulation}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Loop Transfer Function of the State Space Design}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Design Testing}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.4}{Production Test}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{Conclusion}{}% 10
